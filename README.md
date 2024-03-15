@@ -37,12 +37,9 @@ Crie um formulário em HTML, CSS e JavaScript que salva as informações inserid
 
 ```
 formulario/
-...
-├── src
-    ├── index.html
-    ├── style.css
-    └── script.js
-...
+  ├── index.html
+  ├── style.css
+  └── script.js
 ```
 
 ## Descrição dos Arquivos
